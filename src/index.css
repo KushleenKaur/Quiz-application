@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(to bottom, #d8c9ff, #4b2ca3);
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: white;
+  width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+button {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0;
+  border: none;
+  background: #5a3dbf;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #3f2b96;
+}
+
+.history {
+  margin-top: 15px;
+  font-size: 14px;
+}
